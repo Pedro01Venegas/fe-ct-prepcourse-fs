@@ -3,7 +3,7 @@
 function devolverPrimerElemento(array) {
    // Retornar el primer elemento del arreglo recibido por parámetro.
    // Tu código:
-return arrar.unshift()
+return array.unshift()
 }
 
 function devolverUltimoElemento(array) {
